@@ -1,3 +1,0 @@
-# MFC-Draw-Pencil
-
-
